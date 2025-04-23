@@ -1,6 +1,6 @@
 # 🎭 Emotion Classification using SVC
 
-This project is a **machine learning-based emotion classifier** that predicts the emotion expressed in a given sentence. It uses the **Support Vector Classifier (SVC)** model trained on labeled text data representing different emotional states.
+This project is a **machine learning-based  streamlit  app deployment  for emotion classifier** that predicts the emotion expressed in a given sentence. It uses the **Support Vector Classifier (SVC)** model trained on labeled text data representing different emotional states.
 
 ---
 
