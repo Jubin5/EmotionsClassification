@@ -11,7 +11,7 @@ import streamlit as st
 import joblib
 
 # Load the trained SVC model
-model = joblib.load("svc_model.pkl")  # Ensure this file is in the same directory
+model = joblib.load("svc_model(2).pkl")  # Ensure this file is in the same directory
 
 # Optional: load label encoder or emotion map
 label_to_emotion = {0: "Happy", 1: "Sad", 2: "Angry", 3: "Fear", 4: "Neutral"}
